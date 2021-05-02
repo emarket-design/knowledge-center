@@ -9,7 +9,7 @@
   <h3 align="center">Knowledge Center</h3>
 
   <p align="center">
-    Best WordPress Knowledge Base FAQ Plugin. Help your users find information faster with easy-to-use and powerful knowledgebase, responsive FAQ.
+    Knowledge Center is an enterprise grade, powerful knowledge base WordPress plugin
     <br />
     <br />
      <a href="https://github.com/emarket-design/knowledge-center/issues">Report Bug</a>
